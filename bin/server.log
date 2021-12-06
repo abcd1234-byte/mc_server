@@ -1,0 +1,46 @@
+2021-12-06 12:27:40 [INFO] Starting minecraft server version Beta 1.7.3
+2021-12-06 12:27:40 [INFO] Loading properties
+2021-12-06 12:27:40 [WARNING] server.properties does not exist
+2021-12-06 12:27:40 [INFO] Generating new properties file
+2021-12-06 12:27:40 [INFO] Starting Minecraft server on *:25565
+2021-12-06 12:27:40 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2021-12-06 12:27:40 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2021-12-06 12:27:40 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2021-12-06 12:27:40 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2021-12-06 12:27:40 [INFO] Preparing level "world"
+2021-12-06 12:27:40 [INFO] Preparing start region for level 0
+2021-12-06 12:27:41 [INFO] Preparing spawn area: 8%
+2021-12-06 12:27:42 [INFO] Preparing spawn area: 20%
+2021-12-06 12:27:43 [INFO] Preparing spawn area: 32%
+2021-12-06 12:27:44 [INFO] Preparing spawn area: 44%
+2021-12-06 12:27:45 [INFO] Preparing spawn area: 56%
+2021-12-06 12:27:46 [INFO] Preparing spawn area: 69%
+2021-12-06 12:27:47 [INFO] Preparing spawn area: 77%
+2021-12-06 12:27:48 [INFO] Preparing spawn area: 85%
+2021-12-06 12:27:49 [INFO] Preparing spawn area: 93%
+2021-12-06 12:27:50 [INFO] Preparing spawn area: 97%
+2021-12-06 12:27:50 [INFO] Preparing start region for level 1
+2021-12-06 12:27:52 [INFO] Preparing spawn area: 8%
+2021-12-06 12:27:53 [INFO] Preparing spawn area: 12%
+2021-12-06 12:27:54 [INFO] Preparing spawn area: 16%
+2021-12-06 12:27:55 [INFO] Preparing spawn area: 20%
+2021-12-06 12:27:56 [INFO] Preparing spawn area: 24%
+2021-12-06 12:27:58 [INFO] Preparing spawn area: 24%
+2021-12-06 12:27:59 [INFO] Preparing spawn area: 32%
+2021-12-06 12:28:00 [INFO] Preparing spawn area: 44%
+2021-12-06 12:28:02 [INFO] Preparing spawn area: 48%
+2021-12-06 12:28:03 [INFO] Preparing spawn area: 52%
+2021-12-06 12:28:04 [INFO] Preparing spawn area: 56%
+2021-12-06 12:28:05 [INFO] Preparing spawn area: 61%
+2021-12-06 12:28:07 [INFO] Preparing spawn area: 65%
+2021-12-06 12:28:08 [INFO] Preparing spawn area: 69%
+2021-12-06 12:28:09 [INFO] Preparing spawn area: 73%
+2021-12-06 12:28:10 [INFO] Preparing spawn area: 77%
+2021-12-06 12:28:11 [INFO] Preparing spawn area: 85%
+2021-12-06 12:28:12 [INFO] Preparing spawn area: 85%
+2021-12-06 12:28:13 [INFO] Preparing spawn area: 89%
+2021-12-06 12:28:14 [INFO] Preparing spawn area: 93%
+2021-12-06 12:28:15 [INFO] Preparing spawn area: 93%
+2021-12-06 12:28:16 [INFO] Preparing spawn area: 97%
+2021-12-06 12:28:18 [INFO] Preparing spawn area: 97%
+2021-12-06 12:28:18 [INFO] Done (38280174289ns)! For help, type "help" or "?"
